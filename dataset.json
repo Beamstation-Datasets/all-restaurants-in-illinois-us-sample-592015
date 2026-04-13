@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Statewide restaurant dataset covering all active listings across Illinois. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Illinois, US",
+  "export_job_id": "7934262a-f144-4a0e-b936-c308b0176827",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 592015,
+  "location_name": "Illinois",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-illinois-us-sample-592015",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/592015/beamstation_592015_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 3.67,
+  "sample_records": 1000,
+  "sample_sha256": "89dfd7acdfbdf445f4d336b5e0811191565b1bb82b5e151a988d44031cbb2072",
+  "sample_size_bytes": 2919413,
+  "total_records": 27244,
+  "updated_at": "2026-04-09T15:38:01.901940+00:00"
+}
