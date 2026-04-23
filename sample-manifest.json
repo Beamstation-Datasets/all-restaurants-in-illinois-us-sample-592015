@@ -1,12 +1,12 @@
 {
-  "export_job_id": "20546d63-bbc7-4e7d-a08b-942d9aee39f1",
+  "export_job_id": "74001c5b-a5fe-4d82-83d9-4e50a4edc0dc",
   "id_short": 592015,
-  "published_at": "2026-04-19T19:19:16Z",
+  "published_at": "2026-04-23T19:30:54Z",
   "repo_name": "all-restaurants-in-illinois-us-sample-592015",
   "sample_asset_name": "beamstation_592015_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/592015/beamstation_592015_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "f1bfe86c72fee2eda60087ceec7aee8a2bacf525f29e89da295643df3a273cd1",
-  "sample_size_bytes": 2472385,
-  "total_records": 26857
+  "sample_sha256": "c54dbc822113a74ac7771ae14bcc1c5d51f857f75d214cead54b526f6b54f685",
+  "sample_size_bytes": 2900708,
+  "total_records": 24627
 }
