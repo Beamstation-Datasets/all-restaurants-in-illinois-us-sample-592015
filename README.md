@@ -9,9 +9,9 @@
 | Dataset ID | `592015` |
 | Location | Illinois |
 | Category | Restaurants |
-| Full dataset size | 26,857 records |
-| Free sample size | 1,000 records (3.72%) |
-| Last export | 2026-04-16T18:11:36.613297+00:00 |
+| Full dataset size | 24,627 records |
+| Free sample size | 1,000 records (4.06%) |
+| Last export | 2026-04-23T14:52:55.456988+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-illinois-us-sample-592015/releases/download/sample-latest/beamstation_592015_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
